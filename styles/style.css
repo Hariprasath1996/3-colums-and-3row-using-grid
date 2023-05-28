@@ -23,6 +23,7 @@ body{
   padding: 2rem;
   column-gap: 5px;
   row-gap: 5px;
+  
 }
 .card{
   background-color: darkgrey;
@@ -31,6 +32,8 @@ body{
   border: 2px solid yellowgreen;
   font-size: 20px;
   font-weight: 700;
+  border-radius: 2rem;
+
 }
 .card-one h1{
   font-size:1.5rem;
@@ -38,6 +41,7 @@ body{
   justify-content: center;
   align-items: center;
   padding:8px;
+
 }
 .card-one p{
   font-size:1.1rem;
