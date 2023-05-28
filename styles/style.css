@@ -1,0 +1,134 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html{
+  font-size: 15px;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.box{
+  background-color:paleturquoise;
+  display:grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-template-rows: repeat(3,1fr);
+  width: 80vw;
+  height: 80vh;
+  padding: 2rem;
+  column-gap: 5px;
+  row-gap: 5px;
+}
+.card{
+  background-color: darkgrey;
+  width: 20rem;
+  height: 10rem;
+  border: 2px solid yellowgreen;
+  font-size: 20px;
+  font-weight: 700;
+}
+.card-one h1{
+  font-size:1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:8px;
+}
+.card-one p{
+  font-size:1.1rem;
+  padding:15px;
+}
+.card-two h1{
+  font-size:1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:8px;
+  
+}
+.card-two p{
+  font-size:1.1rem;
+  padding:15px;
+}
+.card-three h1{
+  font-size:1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:8px;
+}
+.card-three p{
+  font-size:1.1rem;
+  padding:15px;
+}
+.card-four h1{
+  font-size:1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:8px;
+}
+.card-four p{
+  font-size:1.1rem;
+  padding:15px;
+}
+.card-five h1{
+  font-size:1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:8px;
+}
+.card-five p{
+  font-size:1.1rem;
+  padding:15px;
+}
+.card-six h1{
+  font-size:1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:8px;
+}
+.card-six p{
+  font-size:1.1rem;
+  padding:15px;
+}
+.card-seven h1{
+  font-size:1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:8px;
+}
+.card-seven p{
+  font-size:1.1rem;
+  padding:15px;
+}
+.card-eight h1{
+  font-size:1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:8px;
+}
+.card-eight p{
+  font-size:1.1rem;
+  padding:15px;
+}
+.card-nine h1{
+  font-size:1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:8px;
+}
+.card-nine p{
+  font-size:1.1rem;
+  padding:15px;
+}
